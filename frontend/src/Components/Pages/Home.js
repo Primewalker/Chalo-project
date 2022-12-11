@@ -28,7 +28,7 @@ export default function Home() {
     <Container className="w-50">
       <div className="bg-light p-5 rounded-lg mb-3 mt-3 pb-1">
         <h1 className="display-4">Routing System</h1>
-        <p className="lead">Project for Chloe entrance</p>
+        <p className="lead">Project for Chalo Route System</p>
         <p>List of routes are as follows:</p>
       </div>
       {routes.map((route, index) => {
